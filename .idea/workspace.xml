@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6492cebd-27ed-4226-8b07-2493e3dd5d63" name="Changes" comment="коммит от разработчика 2" />
+    <list default="true" id="6492cebd-27ed-4226-8b07-2493e3dd5d63" name="Changes" comment="удална ветка develop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,7 +94,10 @@
       <updated>1720354632610</updated>
       <workItem from="1720354633676" duration="1217000" />
       <workItem from="1720426711762" duration="1313000" />
-      <workItem from="1720428041789" duration="1101000" />
+      <workItem from="1720428041789" duration="1809000" />
+      <workItem from="1721219664210" duration="38000" />
+      <workItem from="1721311670046" duration="470000" />
+      <workItem from="1721312165081" duration="1275000" />
     </task>
     <task id="LOCAL-00001" summary="коммит от разработчика">
       <option name="closed" value="true" />
@@ -110,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720427162002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="удална ветка develop">
+      <option name="closed" value="true" />
+      <created>1720429331619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720429331619</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +134,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -130,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="коммит от разработчика" />
     <MESSAGE value="коммит от разработчика 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммит от разработчика 2" />
+    <MESSAGE value="удална ветка develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="удална ветка develop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
